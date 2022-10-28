@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vlab8</string>
+    <string name="tvTopText">Верхний текст</string>
+    <string name="btnTopText">Верхняя кнопка</string>
+    <string name="tvBottomText">Нижний текст</string>
+    <string name="btnBottomText">Нижняя кнопка</string>
+
+    <string name="pfname">Имя</string>
+    <string name="pfsurename">Фамилия</string>
+    <string name="btnred">Редактировать профиль</string>
+    <string name="btndel">Удалить профиль</string>
+</resources>
